@@ -22,3 +22,5 @@ Console.Write($"The number of characters in this sentence is: {count}");
 Console.WriteLine("\n"+summation.ToUpper());
 var words = summation.Split(" ");
 Console.WriteLine(words);
+
+
