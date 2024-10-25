@@ -12,3 +12,4 @@ C:\Users\Lenovo\OneDrive - Ege Üniversitesi\BTKAkademi\C#Programming\consoleApp
 C:\Users\Lenovo\OneDrive - Ege Üniversitesi\BTKAkademi\C#Programming\consoleApp\obj\Debug\net8.0\consoleApp.pdb
 C:\Users\Lenovo\OneDrive - Ege Üniversitesi\BTKAkademi\C#Programming\consoleApp\obj\Debug\net8.0\consoleApp.genruntimeconfig.cache
 C:\Users\Lenovo\OneDrive - Ege Üniversitesi\BTKAkademi\C#Programming\consoleApp\obj\Debug\net8.0\ref\consoleApp.dll
+c:\Users\Lenovo\OneDrive - Ege Üniversitesi\BTKAkademi\C#Programming\consoleApp\obj\Debug\net8.0\consoleApp.sourcelink.json

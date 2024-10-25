@@ -1,4 +1,4 @@
-﻿using System.IO.Compression;
+﻿using System.IO;
 
 int? a = null; // ? means a null value can be assigned to a.
 
@@ -29,3 +29,10 @@ Random rnd = new Random();
 int num3 = rnd.Next(20,100);
 
 Console.WriteLine(num3);
+
+int i =0;
+
+while(i++<1)
+{
+Console.WriteLine("test");
+}
